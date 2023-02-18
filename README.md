@@ -18,3 +18,10 @@ The program also processes and standardizes the text. It then saves the results 
 The dictionary is saved as pickle file, then is printed using the display() method in the Person class.
 
 You can see the [code here](https://github.com/meintgl/NLP-Portfolio/blob/main/Homework1_mdc190005/Homework_mdc190005.py).
+
+## Word Guessing Game
+
+This program is a word guessing game.
+It begins by reading a .txt file then reads it as raw text. It calculates the lexical diversity of the tokenized text,
+     then outputs it. Lexical diversity indicates uniqueness of a text.
+More details can be found in the comments of the [code here](https://github.com/meintgl/NLP-Portfolio/blob/main/Homework%202_mdc190005/Homework2_mdc190005_2.py).
