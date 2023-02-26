@@ -25,3 +25,12 @@ This program is a word guessing game.
 It begins by reading a .txt file then reads it as raw text. It calculates the lexical diversity of the tokenized text,
      then outputs it. Lexical diversity indicates uniqueness of a text.
 More details can be found in the comments of the [code here](https://github.com/meintgl/NLP-Portfolio/blob/main/Homework%202_mdc190005/Homework2_mdc190005_2.py).
+
+## Wordnet
+
+WordNet is a hierarchal collection that contains the following: nouns, verbs, adjectives, and adverbs. It al contains glosses, which are short definitions, synsets, which are synonym sets, use examples, and relations to other words.
+
+This program aims to demonstrate the use of WordNet and SentiWordNet.
+
+You can see the [PDF here](https://github.com/meintgl/NLP-Portfolio/blob/main/MeinhardCapucao_WordNet.ipynb%20-%20Colaboratory.pdf)
+and the [ipynb format here](https://github.com/meintgl/NLP-Portfolio/blob/main/MeinhardCapucao_WordNet.ipynb).
