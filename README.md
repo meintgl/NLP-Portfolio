@@ -34,3 +34,10 @@ This program aims to demonstrate the use of WordNet and SentiWordNet.
 
 You can see the [PDF here](https://github.com/meintgl/NLP-Portfolio/blob/main/MeinhardCapucao_WordNet.ipynb%20-%20Colaboratory.pdf)
 and the [ipynb format here](https://github.com/meintgl/NLP-Portfolio/blob/main/MeinhardCapucao_WordNet.ipynb).
+
+## Sentence Parsing
+
+This document explores three methods of sentence parsing: PSG Trees, Dependency Parses, and SRL Parses.
+Check it out, it comes with the use of a unique sentence!
+
+You can see the [PDF here](https://github.com/meintgl/NLP-Portfolio/blob/main/Capucao_Meinhard_Portfolio%20Assignment_%20Sentence%20Parsing.pdf).
