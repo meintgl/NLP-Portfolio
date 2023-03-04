@@ -52,3 +52,5 @@ You can see the [Python Code here](https://github.com/meintgl/NLP-Portfolio/blob
 
 The second program calculates the probability for lines of text of the three langauges, and returns the most likely language for the text to be
 You can see the [Python Code here](https://github.com/meintgl/NLP-Portfolio/blob/main/calculate.py)
+
+The narrative can be [read here](https://github.com/meintgl/NLP-Portfolio/blob/main/N-GramsNarrative.pdf)
