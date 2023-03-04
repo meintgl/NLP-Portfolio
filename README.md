@@ -41,3 +41,14 @@ This document explores three methods of sentence parsing: PSG Trees, Dependency 
 Check it out, it comes with the use of a unique sentence!
 
 You can see the [PDF here](https://github.com/meintgl/NLP-Portfolio/blob/main/Capucao_Meinhard_Portfolio%20Assignment_%20Sentence%20Parsing.pdf).
+
+## N Grams
+
+N Grams is a text window that slides N Words over time. This project creates bigram and unigram dictionaries for English, French, and Italian texts.
+A dictionary is created where the key is the unigram or bigram text, and the value is the count of that unigram or bigram in the data. For the test data, calculate probabilities are calculated for  each language and compare against the true labels.
+
+The first program creates the unigram and bigram dictionaries. 
+You can see the [Python Code here](https://github.com/meintgl/NLP-Portfolio/blob/main/main.py)
+
+The second program calculates the probability for lines of text of the three langauges, and returns the most likely language for the text to be
+You can see the [Python Code here](https://github.com/meintgl/NLP-Portfolio/blob/main/calculate.py)
