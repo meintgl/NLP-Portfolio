@@ -7,7 +7,7 @@ Make sure you have an empty folder named data created to host the urls
 
 There are three important files:
 
-main.py - Does parts 1 - 3 of the homework. 
+webcrawler.py - Does parts 1 - 3 of the homework. 
 
 1. Build a web crawler function that starts with a URL representing a topic (a sport, your
 favorite film, a celebrity, a political issue, etc.) and outputs a list of at least 15 relevant
@@ -37,7 +37,7 @@ like to create with a chatbot based on your knowledge base
 readme.md - markdown file that contains these instructions 
 
 
-The next two files are knowledge bank files; outputted once main.py and importantterms.py are ran. We included them just in case any are needed or if one wants to view them:
+The next two files are knowledge bank files; outputted once webcrawler.py and importantterms.py are ran. We included them just in case any are needed or if one wants to view them:
 
 facts.txt - a text document containing all facts for each of the 10 most important terms.
 
