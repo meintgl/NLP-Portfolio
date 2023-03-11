@@ -54,3 +54,15 @@ The second program calculates the probability for lines of text of the three lan
 You can see the [Python Code here](https://github.com/meintgl/NLP-Portfolio/blob/main/calculate.py)
 
 The narrative can be [read here](https://github.com/meintgl/NLP-Portfolio/blob/main/N-GramsNarrative.pdf)
+
+## Webcrawler Project - Hayao Miyazaki
+
+Simply put, web crawlers browse the web. With libraries like BeautifulSoup to extract data from the web, and the concept of tf-idf's to output important terms from extracted url's, this project gets facts from 10 important terms retrieved from 20 url's that come from Hayao Miyazaki's Wikipedia page. These terms are generated based on metrics such as tf-idf scores. The program importantterms.py pickles facts to a dictionary and a text file.
+
+
+The readme can be [found here](https://github.com/meintgl/NLP-Portfolio/blob/main/Webcrawler_mdc190005/readme.md)
+Here are the two programs, [webcrawl.py](https://github.com/meintgl/NLP-Portfolio/tree/main/Webcrawler_mdc190005) and [importantterms.py](https://github.com/meintgl/NLP-Portfolio/blob/main/Webcrawler_mdc190005/importantterms.py).
+
+The list of facts can be [found here](https://github.com/meintgl/NLP-Portfolio/blob/main/Webcrawler_mdc190005/facts.txt).
+
+
